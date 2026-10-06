@@ -1,0 +1,12 @@
+# Changes here will be overwritten by Copier
+_commit: 25897a2
+_src_path: /Users/timkpaine/Developer/projects/templates/base
+add_docs: false
+add_extension: python
+add_wiki: false
+email: t.paine154@gmail.com
+github: 1kbgz
+project_description: A 1Password secret reference resolver for OmegaConf and Hydra
+project_name: omegaconf-1password
+python_version_primary: '3.11'
+team: 1kbgz
